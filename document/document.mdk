@@ -1,0 +1,26 @@
+Title         : Testing Madoko
+Author        : R. Hakli
+Bibliography: improvisation.bib
+
+[TITLE]
+
+# Let's see how this Madoko works
+
+Madoko is a fast markdown processor for writing professional articles
+with a focus on simplicity and plain text readability.
+
+* Read the [reference manual].
+* Explore the upper-right toolbox menu to discover how Markdown works. 
+* `Alt-Q` reformats the current paragraph.
+
+Enjoy!
+
+<!-- Ok, I can see that the comments are in HTML form -->
+
+Well, what about references? Let's see what think about this.
+
+# References{-}
+
+
+
+[reference manual]: http://madoko.org/reference.html "Madoko reference manual"
